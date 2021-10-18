@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mirelahopkins ,i'm a software engineering student universitary .
-- 👀 I’m interested in javascript and other proggraming laanguages : Java ,phyton,css among others.
-- 🌱 I’m currently learning programming languages phyton, html,c# and java.
+- 👀 I’m interested in javascript and other proggraming languages : Java ,phyton,css among others.
+- 🌱 I’m currently learning programming languages : phyton, html,c# and java.
 - 💞️ I’m looking to collaborate in a compamy wherei will put my full knowledge into practice.
 - 📫 How to reach me mirelagaby12@gmail.com
 
