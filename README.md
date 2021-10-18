@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mirelahopkins ,i'm a software engineering student universitary .
+- 👋 Hi,i am @Mirelahopkins ,i'm a software engineering student universitary .
 - 👀 I’m interested in javascript and other linguagens de programação : Java ,phyton,css among others.
 - 🌱 I’m currently learning programming languages : phyton, html,c# and java.
 - 💞️ I’m looking to collaborate in a empresa wherei will put my full knowledge into practice.
